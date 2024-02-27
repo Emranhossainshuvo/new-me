@@ -3,12 +3,14 @@ import { Outlet } from "react-router-dom";
 const Main = () => {
     return (
         <>
-            <div className="w-96">
+            <div className="flex">
+                <div className="w-96">
+                    <h3>fuckkkkkkkkkkkkkkkk</h3>
+                </div>
 
-            </div>
-
-            <div>
-                <Outlet></Outlet>
+                <div>
+                    <Outlet></Outlet>
+                </div>
             </div>
         </>
     );
