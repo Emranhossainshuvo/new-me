@@ -3,6 +3,11 @@ const Projects = () => {
     return (
         <>
             <div>
+
+                <div>
+                    <h3 className="text-5xl mb-5 text-center border-y-2 py-2 border-slate-700">Projects</h3>
+                </div>
+
                 <div className="lg:flex justify-around items-center">
                     <div className="w-[50%]">
                         <img src="https://i.ibb.co/gFk6PBX/Screenshot-from-2024-03-02-21-46-13.png" alt="" />
