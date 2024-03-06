@@ -41,7 +41,7 @@ const Projects = () => {
                 </div>
 
                 <div className="max-w-sm rounded-sm overflow-hidden shadow-lg hover:shadow-2xl delay-100">
-                    <img className="w-full" src="https://i.ibb.co/XCgHYM9/Screenshot-from-2024-03-05-18-46-09.png" alt="Sunset in the mountains" />
+                    <img className="w-full" src="https://i.ibb.co/WzgnkZD/Screenshot-from-2024-03-06-21-18-25.png" alt="Sunset in the mountains" />
                     <div className="px-6 py-4">
                         <p>E-comers | Restaurant</p>
                         <div className="font-bold text-xl mb-2">Suicine an online restaurant application</div>
