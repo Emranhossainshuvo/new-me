@@ -27,7 +27,7 @@ const Projects = () => {
                     <img className="w-full" src="https://i.ibb.co/XCgHYM9/Screenshot-from-2024-03-05-18-46-09.png" alt="Sunset in the mountains" />
                     <div className="px-2 py-4">
                         <p>E-comers | Business app</p>
-                        <div className="font-bold text-xl mb-2">Suicine an online restaurant application</div>
+                        <div className="font-bold text-xl mb-2">Car doctor an onlice car  repire shop</div>
                         <p className="text-gray-700 text-base">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo dolorum quaerat optio placeat, aliquid modi corporis ab exercitationem voluptate velit!
                         </p>
